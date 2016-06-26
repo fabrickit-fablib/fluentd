@@ -1,7 +1,7 @@
-# etcd
+# fluentd
 
 ## Overview
-This is etcd of fablib.
+This is fluentd of fablib.
 
 ## Testing Guidelines
 ```
